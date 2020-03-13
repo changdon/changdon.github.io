@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changdon.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-06T09:52:54.010Z</updated>
+    <updated>2020-03-13T06:31:01.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changdon.github.io"/>
     <link rel="self" href="https://changdon.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://changdon.github.io/images/avatar.png</logo>
     <icon>https://changdon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[测试]]></title>
-        <id>https://changdon.github.io/post/ce-shi/</id>
-        <link href="https://changdon.github.io/post/ce-shi/">
-        </link>
-        <updated>2020-03-06T09:13:01.000Z</updated>
-        <content type="html"><![CDATA[<p>多煞风景啊</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://changdon.github.io/post/hello-gridea/</id>
